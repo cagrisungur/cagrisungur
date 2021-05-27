@@ -1,5 +1,5 @@
   ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
+  [![Visits Badge](https://badges.pufler.dev/visits/cagrisungur/cagrisungur](https://badges.pufler.dev/visits/cagrisungur/cagrisungur)
   
 <img src="https://github.com/cagrisungur/cagrisungur/blob/main/images/life_balance.gif?raw=true" alt="side Image" align="right" width="200" height="auto" />
   
