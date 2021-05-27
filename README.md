@@ -86,4 +86,4 @@
   
   ### 🛠️ My Projects
   
-  <a href="https://dyitems.com" target="_blank"> <img alt="dyitems" src="https://dyitems.com/img/core-img/1.png" height="80" align="left"> </a>
+  <a href="https://dyitems.com" target="_blank"> <img alt="dyitems" src="https://dyitems.com/img/core-img/1.png" height="100" align="left"> </a>
