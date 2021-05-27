@@ -8,7 +8,7 @@
   - :moneybag:	 One thing about me, "I scrape everything, but only scalp good things"
   - Bots for everything
   
- #### How to contact with me:
+  #### How to contact with me:
   
   [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/50165846/)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/cagri-sungur/)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/cagrisungur/)  &nbsp; <a href="mailto:cagrisungur@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
@@ -80,6 +80,10 @@
   </tr>
 </table>
   
-#### Stats
+  #### Stats
 
 ![Metrics](https://metrics.lecoq.io/cagrisungur?template=terminal&base.metadata=0&config.timezone=Europe%2FIstanbul)
+  
+  ### 🛠️ My Projects
+  
+  <a href="https://dyitems.com" target="_blank"> <img alt="dyitems" src="https://dyitems.com/img/core-img/1.png" height="68" align="left"> </a>
